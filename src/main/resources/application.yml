@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: "jdbc:mysql://43.201.37.133:3306/DB202111987?autoReconnect=true&useUnicode=true&serverTimezone=Asia/Seoul&characterEncoding=utf8"
-    username: user202111987
-    password: !mynameis202111987
+    url: "jdbc:mysql://43.203.237.215:3306/DB202211037"
+    username: user202211037
+    password: !mynameis202211037
   jpa:
     database: mysql
     hibernate:
